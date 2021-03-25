@@ -1,0 +1,26 @@
+.top p
+{
+	background-color: white;
+	position: relative;
+	font-family: 'Courgette', cursive;
+	padding-left: 100px;
+	font-size: 40px;
+}
+.top a{
+	padding-right: 100px;
+	position: relative;
+
+}
+.links {
+	background-color: #11076e;
+   height: 45px;
+}
+img {
+	padding-top: 25px;
+	padding-left: 50px; 
+}
+p {
+	padding-left: 600px;
+	padding-top: 0px;
+	margin-left: 600px;
+}
